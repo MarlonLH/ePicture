@@ -1,0 +1,8 @@
+2018-11-12 14:39:05,127 [main]                [34mINFO [0;39m com.github.xsavikx.androidscreencast.app.DeviceChooserApplication - Starting application
+ [DeviceChooserApplication.java:44]2018-11-12 14:39:05,287 [main]                [34mINFO [0;39m com.github.xsavikx.androidscreencast.app.DeviceChooserApplication - 1 device was found by ADB
+ [DeviceChooserApplication.java:53]2018-11-12 14:39:05,432 [main]                [34mINFO [0;39m com.github.xsavikx.androidscreencast.app.DeviceChooserApplication - samsung-sm_g960f-231c62651e017ece was chosen
+ [DeviceChooserApplication.java:64]2018-11-12 14:39:05,826 [main]                [34mINFO [0;39m com.github.xsavikx.androidscreencast.app.AndroidScreencastApplication - Starting application
+ [AndroidScreencastApplication.java:52]2018-11-12 14:39:05,890 [Screen Capturer]     [34mINFO [0;39m com.github.xsavikx.androidscreencast.api.injector.ScreenCaptureRunnable - Starting screen capturing
+ [ScreenCaptureRunnable.java:51]2018-11-12 14:43:58,326 [AWT-EventQueue-0]    [34mINFO [0;39m com.github.xsavikx.androidscreencast.app.AndroidScreencastApplication - Stopping application
+ [AndroidScreencastApplication.java:37]2018-11-12 14:43:59,341 [Thread-1]            [34mINFO [0;39m com.github.xsavikx.androidscreencast.app.AndroidScreencastApplication - Stopping application
+ [AndroidScreencastApplication.java:37]

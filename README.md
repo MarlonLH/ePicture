@@ -7,7 +7,7 @@
 
 ---
 
+[![CircleCI](https://circleci.com/gh/MarlonLH/ePicture.svg?style=svg)](https://circleci.com/gh/MarlonLH/ePicture)
+
 # ePicture
 A photo finder / browsing app for Imgur (EPITECH Project)
-
-[![CircleCI](https://circleci.com/gh/MarlonLH/ePicture.svg?style=svg)](https://circleci.com/gh/MarlonLH/ePicture)

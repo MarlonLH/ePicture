@@ -11,3 +11,7 @@
 
 # ePicture
 A photo finder / browsing app for Imgur (EPITECH Project)
+
+Made by 
+[Marlon L'HUILLIER](https://github.com/MarlonLH/)
+[Laurent COLOMA](https://github.com/LaurentColoma)

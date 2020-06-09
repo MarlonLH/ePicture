@@ -1,6 +1,6 @@
 const apiUrl = 'https://api.imgur.com/3/'
-const clientId = '6ecaa1d0f211536'
-const cliendSecret = '6757136dd60d213b01fa95abba8c95cd82304263'
+const clientId = {CLIENT_ID}
+const cliendSecret = {CLIENT_SECRET}
 
 module.exports = {
     get (targetUrl) {
